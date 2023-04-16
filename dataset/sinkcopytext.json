@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "SalesLTCustomerAddress.txt",
-				"folderPath": "project/input",
+				"folderPath": "project/output",
 				"fileSystem": "projectcontainer"
 			},
 			"columnDelimiter": ",",
