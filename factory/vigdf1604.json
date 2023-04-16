@@ -1,0 +1,9 @@
+{
+	"name": "vigdf1604",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44cd4b41-ebaa-456b-a2f1-ac3efb446a8d",
+		"tenantId": "92633d02-4a98-48e4-a888-4fd56d48e017"
+	}
+}
